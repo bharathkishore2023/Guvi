@@ -1,0 +1,15 @@
+
+      $bg-color:#f9fbfd;
+      $radius:30px;
+      .bg-color{
+        background-color:$bg-color ;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .btn-rounded{
+        border-radius:$radius;
+    }
+    #success{
+        color:rgb(4, 47, 4);
+        
+        
+    }

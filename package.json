@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "g": "^2.0.1",
+    "live-server": "^1.2.2",
+    "react-native-validator-form": "^1.0.0"
+  },
+  "devDependencies": {
+    "node-sass": "4.5.0"
+},
+"scripts" : {
+    "node-sass": "node-sass --output-style compressed -o dist/css src/scss"
+}
+  
+}
